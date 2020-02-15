@@ -1,0 +1,15 @@
+---
+title: "Final Project Milestone 2"
+author: "Helen Pang"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Project 1: Beyond the Stage
+Margaret Sun's project was very exciting for me, since she is in a club that I'm a part of, and I share her joy in the K-pop group BTS. I was very happy to find out she made her final project based off of BTS data, analyzing the various components of their music as compared to the K-pop industry, and to American music as well. The best part of her project, in my opinion, is the graphical display comparing BTS to its competitors in music. Being able to choose different features, see the graph dynamically change, with a nice color scheme, is really great. However, some cons I do see are that the actual data and representation in this project does not seem terribly complicated, and there could have been more analysis in my opinion. There are only 2 tabs of data display, each with several variables. It would have been nice to see some more breakdowns of BTS and their music in different scopes. Additionally, it seems like the website used for this project is quite bland. The home page does not look very sleek, and the text is quite crowded. Aesthetically, this project left some to be desired.
+
+## Project 2: Catching Criminals: A Criminal Minds Analysis
+Morgan Booker's project is very interesting, because she did not just use a conventional data set and instead tried to find observations based off of the show Criminal Minds and its various components. Morgan performed text analysis on episode scripts, which likely required some data manipulation. She also analyzes character relationships, which likely required some data wrangling as well. I also really enjoy her layout of the website; it's organized and clean, there are many tabs for different displays, and also her data has a lot of things going on. She even includes a regression graph examining relationships between different factors of the show such as relationship, characters, buzzwords, and criminal capture. This was definitely  independent analysis, and it's very interesting that she thought of it and executed it well. I think the word cloud is something that could be improved in the project. This tab does not have a smuch going on, and it isn't as relevant to analyzing the show. It is still an interesting visual representation though. Something this project could have done better is try to use these interesting analyses of variable relationships and draw some more definitive conclusions. Or even using this information to further explore tangible applications to true crime. I would have liked to see more depth to this data analysis.
+
